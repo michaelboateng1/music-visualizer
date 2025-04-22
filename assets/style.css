@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.canvas {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* background-color: ; */
+  /* filter: blur(2px) contrast(5); */
+}
+
+.button,
+.audio {
+  /* width: 50%; */
+  margin: 50px auto;
+  display: block;
+  padding: 10px 20px;
+  position: relative;
+  top: -50px;
+}
+
+.button:active {
+  background-color: red;
+}
+
+#fileupload {
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: white;
+  margin: 50px 50px;
+}
