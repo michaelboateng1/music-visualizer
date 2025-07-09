@@ -15,3 +15,5 @@ A sleek, real-time music visualizer built for the browser. Select your favorite 
 * HTML5 Audio API
 * JavaScript and Canvas API
 * Pure CSS
+
+**Note:** I'll add more additional features on my free time and all your contributions are also welcome 🤗
